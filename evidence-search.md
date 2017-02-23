@@ -1,6 +1,6 @@
 #Evidence search
 ## Reconciliation tables
-* [Comparison of included studies with prior systematc reviews](../../tree/master/reconciliation-tables/)
+* [Comparison of included studies with prior systematc reviews](../../tree/master/reconciliation-tables/) (not applicable as the prior review did was before cohorts were analyzed with conditional logistic regression.
 
 ##PubMed
 ###Boolean term searching
