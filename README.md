@@ -7,10 +7,8 @@ A living systematic review
 [Keep current with this topic](Keep-up.md)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
-
-This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
-
-See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+* [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
+* [Evidence search](evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (not available)
