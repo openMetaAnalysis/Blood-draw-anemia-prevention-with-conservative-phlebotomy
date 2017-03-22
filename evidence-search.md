@@ -17,11 +17,11 @@ We included controlled studies that compared any one or more components of conse
 ## Cited reference searching
 
 ### Identifying seminal studies that are the most highly cited at Google Scholar
-- Corwin HL, 2004 PMID: 14707558. Cited 1095
-- Smoller BR, 1986 PMID: 3702919. Cited 299
-- Chant C, 2006 PMID: 17002795. Cited 110
-- Thavendiranathan P, 2005 PMID: 15987327. Cited 102
-- Tinmouth AT, 2008 PMID: 18166731. Cited 86
+- Corwin HL, 2004 PMID: [14707558](https://pubmed.gov/14707558). Cited 1095
+- Smoller BR, 1986 PMID: [3702919](https://pubmed.gov/3702919). Cited 299
+- Chant C, 2006 PMID: [17002795](https://pubmed.gov/17002795). Cited 110
+- Thavendiranathan P, 2005 PMID: [15987327](https://pubmed.gov/15987327). Cited 102
+- Tinmouth AT, 2008 PMID: [18166731](https://pubmed.gov/18166731). Cited 86
 
 ### Searching within the highly citing studies using Google Scholar (7/17/2016)
 - Conde-Agudelo. [142 articles](https://scholar.google.com/scholar?q=propensity+OR+matched+OR+conditional&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7045961145256729995&scipsc=1) (x new articles included)
