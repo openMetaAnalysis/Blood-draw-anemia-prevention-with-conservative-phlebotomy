@@ -30,7 +30,6 @@ References:
 ### Systematic review(s)
 #### Most recent review(s) at time of last revision of this repository
 1. Page C, Retter A, Wyncoll D. Blood conservation devices in critical care: a narrative review. Ann Intensive Care. 2013 May 28;3:14. doi: 10.1186/2110-5820-3-14. Review. PMID: [23714376](http://pubmed.gov/23714376).
-2. Wisser D, van Ackern K, Knoll E, Wisser H, Bertsch T. Blood loss from laboratory tests. Clin Chem. 2003 Oct;49(10):1651-5. PMID: [14500590](http://pubmed.gov/14500590).
 3. Corwin HL, Gettinger A, Pearl RG, Fink MP, Levy MM, Abraham E, MacIntyre NR, Shabot MM, Duh MS, Shapiro MJ.
 The CRIT Study: Anemia and blood transfusion in the critically ill--current clinical practice in the United States. Crit Care Med. 2004 Jan;32(1):39-52. PMID: [14707558](http://pubmed.gov/14707558).
 4. Tinmouth AT, McIntyre LA, Fowler RA.
@@ -73,6 +72,7 @@ Diagnostic blood loss from phlebotomy and hospital-acquired anemia during acute 
 3. Chant C, Wilson G, Friedrich JO. Anemia, transfusion, and phlebotomy practices in critically ill patients with prolonged ICU length of stay: a cohort study. Crit Care. 2006;10(5):R140. PMID: [17002795](http://pubmed.gov/17002795). *No intervention*
 4. Alazia M, Colavolpe JC, Botti G, Corda N, Ramero C, François G.
 [Blood loss from diagnostic laboratory tests performed in intensive care units. Preliminary study]. Ann Fr Anesth Reanim. 1996;15(7):1004-7. PMID: [9180974](http://pubmed.gov/9180974).*No intervention*
+2. Wisser D, van Ackern K, Knoll E, Wisser H, Bertsch T. Blood loss from laboratory tests. Clin Chem. 2003 Oct;49(10):1651-5. PMID: [14500590](http://pubmed.gov/14500590).*Does not report hemogobin change or transfusions*
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
