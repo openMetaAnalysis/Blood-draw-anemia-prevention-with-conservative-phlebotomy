@@ -70,10 +70,8 @@ Diagnostic blood loss from phlebotomy and hospital-acquired anemia during acute 
 None
 
 #### New study(s) *excluded* 
-1. Smoller BR, Kruskall MS. 
-Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919).
-2. Fowler RA, Berenson M.
-Blood conservation in the intensive care unit. Crit Care Med. 2003 Dec;31(12 Suppl):S715-20. PMID: [14724470](http://pubmed.gov/14724470).
+1. Smoller BR, Kruskall MS. Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919).* Measure of variation not reported*
+2. Fowler RA, Berenson M. Blood conservation in the intensive care unit. Crit Care Med. 2003 Dec;31(12 Suppl):S715-20. PMID: [14724470](http://pubmed.gov/14724470).
 3. Chant C, Wilson G, Friedrich JO. 
 Anemia, transfusion, and phlebotomy practices in critically ill patients with prolonged ICU length of stay: a cohort study. Crit Care. 2006;10(5):R140. PMID: [17002795](http://pubmed.gov/17002795).
 4. Alazia M, Colavolpe JC, Botti G, Corda N, Ramero C, François G.
