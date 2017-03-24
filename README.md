@@ -33,28 +33,19 @@ References:
 2. Fowler RA, Berenson M. Blood conservation in the intensive care unit. Crit Care Med. 2003 Dec;31(12 Suppl):S715-20. PMID: [14724470](http://pubmed.gov/14724470).
 
 ### Controlled study(s) that are more recent
-1. Dolman HS, Evans K, Zimmerman LH, Lavery T, Baylor AE, Wilson RF, Tyburski JG.
-Impact of minimizing diagnostic blood loss in the critically ill. Surgery. 2015
-Oct;158(4):1083-7; PMID: [26164619](http://pubmed.gov/26164619).
-2. Rezende E, Ferez MA, Silva Junior JM, Oliveira AM, Viana RA, Mendes CL, Toledo Dde O, Ribeiro Neto MC, Setoyama TA.
-Closed system for blood sampling and transfusion in critically ill patients. Rev Bras Ter Intensiva. 2010 Mar;22(1):5-10. PMID: [25303693](http://pubmed.gov/25303693).
-3. MacIsaac CM, Presneill JJ, Boyce CA, Byron KL, Cade JF.
-The influence of a blood conserving device on anemia in intensive care patients. Anesthesia Intensive Care. 2003 Dec;31(6):653-7. PMID: [14719427](http://pubmed.gov/14719427).
-4. Harber CR, Sosnowski KJ, Hegde RM.
-Highly conservative phlebotomy in adult intensive care--a prospective randomized controlled trial. Anaesth Intensive Care. 2006 Aug;34(4):434-7. PMID: [16913337](http://pubmed.gov/16913337).
-5. Riessen R, Behmenburg M, Blumenstock G, Guenon D, Enkel S, Schäfer R, Haap M. 
-A Simple "Blood-Saving Bundle" Reduces Diagnostic Blood Loss and the Transfusion Rate in Mechanically Ventilated Patients. PLoS One. 2015 Sep 30;10(9). PMID: [26421920](http://pubmed.gov/26421920).
-6. Mahdy S, Khan EI, Attia M, O'Brien BP, Seigne P.
-Evaluation of a blood conservation strategy in the intensive care unit: a prospective, randomized study. Middle East J Anesthesiology. 2009 Jun;20(2):219-23. PMID: [19583069](http://pubmed.gov/19583069).
-7. Thorpe S, Thomas AN.
-The use of a blood conservation pressure transducer system in critically ill patients. Anesthesia. 2000 Jan;55(1):27-31. PMID: [10594430](http://pubmed.gov/10594430).
-8. Mukhopadhyay A, Yip HS, Prabhuswamy D, Chan YH, Phua J, Lim TK, Leong P.
-The use of a blood conservation device to reduce red blood cell transfusion requirements: a before and after study. Crit Care. 2010;14(1):R7. doi: 10.1186/cc8859. PMID: [20105285](http://pubmed.gov/20105285).
-9. Sanchez-Giron F, Alvarez-Mora F.
-Reduction of blood loss from laboratory testing in hospitalized adult patients using small-volume (pediatric) tubes. Arch Pathol Lab Med. 2008 Dec;132(12):1916-9. doi: 10.1043/1543-2165-132.12.1916. PMID: [19061290](http://pubmed.gov/19061290).
-10. Salisbury AC, Reid KJ, Alexander KP, Masoudi FA, Lai SM, Chan PS, Bach RG, Wang TY, Spertus JA, Kosiborod M.
+1. Dolman HS, Evans K, Zimmerman LH, Lavery T, Baylor AE, Wilson RF, Tyburski JG. Impact of minimizing diagnostic blood loss in the critically ill. Surgery. 2015 Oct;158(4):1083-7; PMID: [26164619](http://pubmed.gov/26164619).
+2. Riessen R, Behmenburg M, Blumenstock G, Guenon D, Enkel S, Schäfer R, Haap M.  A Simple "Blood-Saving Bundle" Reduces Diagnostic Blood Loss and the Transfusion Rate in Mechanically Ventilated Patients. PLoS One. 2015 Sep 30;10(9). PMID: [26421920](http://pubmed.gov/26421920).
+3. Salisbury AC, Reid KJ, Alexander KP, Masoudi FA, Lai SM, Chan PS, Bach RG, Wang TY, Spertus JA, Kosiborod M.
 Diagnostic blood loss from phlebotomy and hospital-acquired anemia during acute myocardial infarction. Arch Intern Med. 2011 Oct 10;171(18):1646-53. doi: 10.1001/archinternmed.2011.361. PMID: [21824940](http://pubmed.gov/21824940).
-6. Peruzzi WT, Parker MA, Lichtenthal PR, Cochran-Zull C, Toth B, Blake M. A clinical evaluation of a blood conservation device in medical intensive care unit patients. Crit Care Med. 1993 Apr;21(4):501-6. PMID: [8472567](http://pubmed.gov/8472567).
+4. Rezende E, Ferez MA, Silva Junior JM, Oliveira AM, Viana RA, Mendes CL, Toledo Dde O, Ribeiro Neto MC, Setoyama TA.
+Closed system for blood sampling and transfusion in critically ill patients. Rev Bras Ter Intensiva. 2010 Mar;22(1):5-10. PMID: [25303693](http://pubmed.gov/25303693).
+5. Mukhopadhyay A, Yip HS, Prabhuswamy D, Chan YH, Phua J, Lim TK, Leong P. The use of a blood conservation device to reduce red blood cell transfusion requirements: a before and after study. Crit Care. 2010;14(1):R7. doi: 10.1186/cc8859. PMID: [20105285](http://pubmed.gov/20105285).
+6. Mahdy S, Khan EI, Attia M, O'Brien BP, Seigne P. Evaluation of a blood conservation strategy in the intensive care unit: a prospective, randomized study. Middle East J Anesthesiology. 2009 Jun;20(2):219-23. PMID: [19583069](http://pubmed.gov/19583069).
+7. Sanchez-Giron F, Alvarez-Mora F. Reduction of blood loss from laboratory testing in hospitalized adult patients using small-volume (pediatric) tubes. Arch Pathol Lab Med. 2008 Dec;132(12):1916-9. doi: 10.1043/1543-2165-132.12.1916. PMID: [19061290](http://pubmed.gov/19061290).
+8. Harber CR, Sosnowski KJ, Hegde RM. Highly conservative phlebotomy in adult intensive care--a prospective randomized controlled trial. Anaesth Intensive Care. 2006 Aug;34(4):434-7. PMID: [16913337](http://pubmed.gov/16913337).
+9. MacIsaac CM, Presneill JJ, Boyce CA, Byron KL, Cade JF. The influence of a blood conserving device on anemia in intensive care patients. Anesthesia Intensive Care. 2003 Dec;31(6):653-7. PMID: [14719427](http://pubmed.gov/14719427).
+10. Thorpe S, Thomas AN. The use of a blood conservation pressure transducer system in critically ill patients. Anesthesia. 2000 Jan;55(1):27-31. PMID: [10594430](http://pubmed.gov/10594430).
+11. Peruzzi WT, Parker MA, Lichtenthal PR, Cochran-Zull C, Toth B, Blake M. A clinical evaluation of a blood conservation device in medical intensive care unit patients. Crit Care Med. 1993 Apr;21(4):501-6. PMID: [8472567](http://pubmed.gov/8472567).
 
 #### Newer controlled study(s) undergoing review
 1. Gleason E, Grossman S, Campbell C. Minimizing diagnostic blood loss in critically ill patients. Am J Crit Care. 1992 Jul;1(1):85-90. PMID: [1307883](http://pubmed.gov/1307883).
