@@ -41,7 +41,6 @@ Diagnostic blood loss from phlebotomy and hospital-acquired anemia during acute 
 Closed system for blood sampling and transfusion in critically ill patients. Rev Bras Ter Intensiva. 2010 Mar;22(1):5-10. PMID: [25303693](http://pubmed.gov/25303693).
 5. Mukhopadhyay A, Yip HS, Prabhuswamy D, Chan YH, Phua J, Lim TK, Leong P. The use of a blood conservation device to reduce red blood cell transfusion requirements: a before and after study. Crit Care. 2010;14(1):R7. doi: 10.1186/cc8859. PMID: [20105285](http://pubmed.gov/20105285).
 6. Mahdy S, Khan EI, Attia M, O'Brien BP, Seigne P. Evaluation of a blood conservation strategy in the intensive care unit: a prospective, randomized study. Middle East J Anesthesiology. 2009 Jun;20(2):219-23. PMID: [19583069](http://pubmed.gov/19583069).
-7. Sanchez-Giron F, Alvarez-Mora F. Reduction of blood loss from laboratory testing in hospitalized adult patients using small-volume (pediatric) tubes. Arch Pathol Lab Med. 2008 Dec;132(12):1916-9. doi: 10.1043/1543-2165-132.12.1916. PMID: [19061290](http://pubmed.gov/19061290).
 8. Harber CR, Sosnowski KJ, Hegde RM. Highly conservative phlebotomy in adult intensive care--a prospective randomized controlled trial. Anaesth Intensive Care. 2006 Aug;34(4):434-7. PMID: [16913337](http://pubmed.gov/16913337).
 9. MacIsaac CM, Presneill JJ, Boyce CA, Byron KL, Cade JF. The influence of a blood conserving device on anemia in intensive care patients. Anesthesia Intensive Care. 2003 Dec;31(6):653-7. PMID: [14719427](http://pubmed.gov/14719427).
 10. Thorpe S, Thomas AN. The use of a blood conservation pressure transducer system in critically ill patients. Anesthesia. 2000 Jan;55(1):27-31. PMID: [10594430](http://pubmed.gov/10594430).
@@ -61,6 +60,7 @@ The CRIT Study: Anemia and blood transfusion in the critically ill--current clin
 [Blood loss from diagnostic laboratory tests performed in intensive care units. Preliminary study]. Ann Fr Anesth Reanim. 1996;15(7):1004-7. PMID: [9180974](http://pubmed.gov/9180974).*No intervention*
 4. Silver MJ, Li YH, Gragg LA, Jubran F, Stoller JK. Reduction of blood loss from diagnostic sampling in critically ill patients using a blood-conserving arterial line system. Chest. 1993 Dec;104(6):1711-5.  PMID: [8252948](http://pubmed.gov/8252948)*Does not report hemogobin change or transfusions*
 5. Tarpey J, Lawler PG. Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936).*No intervention*
+7. Sanchez-Giron F, Alvarez-Mora F. Reduction of blood loss from laboratory testing in hospitalized adult patients using small-volume (pediatric) tubes. Arch Pathol Lab Med. 2008 Dec;132(12):1916-9. doi: 10.1043/1543-2165-132.12.1916. PMID: [19061290](http://pubmed.gov/19061290).*intervension aiming at blood volume change*
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
