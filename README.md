@@ -29,20 +29,17 @@ References:
 ----------------------------------
 ### Systematic review(s)
 #### Most recent review(s) at time of last revision of this repository
-1. Page C, Retter A, Wyncoll D. Blood conservation devices in critical care: a
-narrative review. Ann Intensive Care. 2013 May 28;3:14. doi: 10.1186/2110-5820-3-14. Review. PMID: [23714376](http://pubmed.gov/23714376).
-2. Wisser D, van Ackern K, Knoll E, Wisser H, Bertsch T. 
-Blood loss from laboratory tests. Clin Chem. 2003 Oct;49(10):1651-5. PMID: [14500590](http://pubmed.gov/14500590).
+1. Page C, Retter A, Wyncoll D. Blood conservation devices in critical care: a narrative review. Ann Intensive Care. 2013 May 28;3:14. doi: 10.1186/2110-5820-3-14. Review. PMID: [23714376](http://pubmed.gov/23714376).
+2. Wisser D, van Ackern K, Knoll E, Wisser H, Bertsch T. Blood loss from laboratory tests. Clin Chem. 2003 Oct;49(10):1651-5. PMID: [14500590](http://pubmed.gov/14500590).
 3. Corwin HL, Gettinger A, Pearl RG, Fink MP, Levy MM, Abraham E, MacIntyre NR, Shabot MM, Duh MS, Shapiro MJ.
 The CRIT Study: Anemia and blood transfusion in the critically ill--current clinical practice in the United States. Crit Care Med. 2004 Jan;32(1):39-52. PMID: [14707558](http://pubmed.gov/14707558).
 4. Tinmouth AT, McIntyre LA, Fowler RA.
 (Blood conservation strategies to reduce the need for red blood cell transfusion in critically ill patients. CMAJ. 2008 Jan 1;178(1):49-57. doi: 10.1503/cmaj.071298. PMID: [18166731](http://pubmed.gov/18166731).
-5. Tarpey J, Lawler PG. 
-Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936).
+5. Tarpey J, Lawler PG. Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936).
 6. Lyon AW, Chin AC, Slotsve GA, Lyon ME.
 Simulation of repetitive diagnostic blood loss and onset of iatrogenic anemia in critical care patients with a mathematical model. Comput Biol Med. 2013 Feb;43(2):84-90. PMID: [23228481](http://pubmed.gov/23228481).
-7. Thavendiranathan P, Bagai A, Ebidia A, Detsky AS, Choudhry NK. 
-Do blood tests cause anemia in hospitalized patients? The effect of diagnostic phlebotomy on hemoglobin and hematocrit levels. J Gen Intern Med. 2005 Jun. PMID: [15987327](http://pubmed.gov/15987327).
+7. Thavendiranathan P, Bagai A, Ebidia A, Detsky AS, Choudhry NK. Do blood tests cause anemia in hospitalized patients? The effect of diagnostic phlebotomy on hemoglobin and hematocrit levels. J Gen Intern Med. 2005 Jun. PMID: [15987327](http://pubmed.gov/15987327).
+2. Fowler RA, Berenson M. Blood conservation in the intensive care unit. Crit Care Med. 2003 Dec;31(12 Suppl):S715-20. PMID: [14724470](http://pubmed.gov/14724470).
 
 ### Controlled study(s) that are more recent
 1. Dolman HS, Evans K, Zimmerman LH, Lavery T, Baylor AE, Wilson RF, Tyburski JG.
@@ -66,20 +63,17 @@ The use of a blood conservation device to reduce red blood cell transfusion requ
 Reduction of blood loss from laboratory testing in hospitalized adult patients using small-volume (pediatric) tubes. Arch Pathol Lab Med. 2008 Dec;132(12):1916-9. doi: 10.1043/1543-2165-132.12.1916. PMID: [19061290](http://pubmed.gov/19061290).
 10. Salisbury AC, Reid KJ, Alexander KP, Masoudi FA, Lai SM, Chan PS, Bach RG, Wang TY, Spertus JA, Kosiborod M.
 Diagnostic blood loss from phlebotomy and hospital-acquired anemia during acute myocardial infarction. Arch Intern Med. 2011 Oct 10;171(18):1646-53. doi: 10.1001/archinternmed.2011.361. PMID: [21824940](http://pubmed.gov/21824940).
+6. Peruzzi WT, Parker MA, Lichtenthal PR, Cochran-Zull C, Toth B, Blake M. A clinical evaluation of a blood conservation device in medical intensive care unit patients. Crit Care Med. 1993 Apr;21(4):501-6. PMID: [8472567](http://pubmed.gov/8472567).
+
 #### Newer controlled study(s) undergoing review
-None
+1. Gleason E, Grossman S, Campbell C. Minimizing diagnostic blood loss in critically ill patients. Am J Crit Care. 1992 Jul;1(1):85-90. PMID: [1307883](http://pubmed.gov/1307883).
 
 #### New study(s) *excluded* 
-1. Smoller BR, Kruskall MS. Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919).* Measure of variation not reported*
-2. Fowler RA, Berenson M. Blood conservation in the intensive care unit. Crit Care Med. 2003 Dec;31(12 Suppl):S715-20. PMID: [14724470](http://pubmed.gov/14724470).
-3. Chant C, Wilson G, Friedrich JO. 
-Anemia, transfusion, and phlebotomy practices in critically ill patients with prolonged ICU length of stay: a cohort study. Crit Care. 2006;10(5):R140. PMID: [17002795](http://pubmed.gov/17002795).
+1. Smoller BR, Kruskall MS. Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919).*Measure of variation not reported*
+3. Chant C, Wilson G, Friedrich JO. Anemia, transfusion, and phlebotomy practices in critically ill patients with prolonged ICU length of stay: a cohort study. Crit Care. 2006;10(5):R140. PMID: [17002795](http://pubmed.gov/17002795). *No intervention*
 4. Alazia M, Colavolpe JC, Botti G, Corda N, Ramero C, François G.
-[Blood loss from diagnostic laboratory tests performed in intensive care units. Preliminary study]. Ann Fr Anesth Reanim. 1996;15(7):1004-7. PMID: [9180974](http://pubmed.gov/9180974).
-5. Gleason E, Grossman S, Campbell C.
-Minimizing diagnostic blood loss in critically ill patients. Am J Crit Care. 1992 Jul;1(1):85-90. PMID: [1307883](http://pubmed.gov/1307883).
-6. Peruzzi WT, Parker MA, Lichtenthal PR, Cochran-Zull C, Toth B, Blake M.
-A clinical evaluation of a blood conservation device in medical intensive care unit patients. Crit Care Med. 1993 Apr;21(4):501-6. PMID: [8472567](http://pubmed.gov/8472567).
+[Blood loss from diagnostic laboratory tests performed in intensive care units. Preliminary study]. Ann Fr Anesth Reanim. 1996;15(7):1004-7. PMID: [9180974](http://pubmed.gov/9180974).*No intervention*
+
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
 [Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
