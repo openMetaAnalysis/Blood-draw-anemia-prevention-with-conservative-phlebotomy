@@ -49,18 +49,17 @@ Closed system for blood sampling and transfusion in critically ill patients. Rev
 #### Newer controlled study(s) undergoing review
 1. Gleason E, Grossman S, Campbell C. Minimizing diagnostic blood loss in critically ill patients. Am J Crit Care. 1992 Jul;1(1):85-90. PMID: [1307883](http://pubmed.gov/1307883).
 
-#### New study(s) *excluded* 
-1. Smoller BR, Kruskall MS. Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919).*Measure of variation not reported*
+#### New study(s) *excluded*
+1. Mukhopadhyay A, See KC, Chan YH, Yip HS, Phua J. Effect of a blood conservation device in patients with preserved admission haemoglobin in the intensive care unit. Anaesth Intensive Care. 2011 May;39(3):426-30. PMID: [21675062](http://pubmed.gov/21675062) *Subgroup of patients already included in Mukhopadhyay, 2010)*
+2. Sanchez-Giron F, Alvarez-Mora F. Reduction of blood loss from laboratory testing in hospitalized adult patients using small-volume (pediatric) tubes. Arch Pathol Lab Med. 2008 Dec;132(12):1916-9. doi: 10.1043/1543-2165-132.12.1916. PMID: [19061290](http://pubmed.gov/19061290).*intervension aiming at blood volume change*
 3. Chant C, Wilson G, Friedrich JO. Anemia, transfusion, and phlebotomy practices in critically ill patients with prolonged ICU length of stay: a cohort study. Crit Care. 2006;10(5):R140. PMID: [17002795](http://pubmed.gov/17002795). *No intervention*
-7. Thavendiranathan P, Bagai A, Ebidia A, Detsky AS, Choudhry NK. Do blood tests cause anemia in hospitalized patients? The effect of diagnostic phlebotomy on hemoglobin and hematocrit levels. J Gen Intern Med. 2005 Jun. PMID: [15987327](http://pubmed.gov/15987327).
-2. Wisser D, van Ackern K, Knoll E, Wisser H, Bertsch T. Blood loss from laboratory tests. Clin Chem. 2003 Oct;49(10):1651-5. PMID: [14500590](http://pubmed.gov/14500590).*Does not report hemogobin change or transfusions*
-3. Corwin HL, Gettinger A, Pearl RG, Fink MP, Levy MM, Abraham E, MacIntyre NR, Shabot MM, Duh MS, Shapiro MJ.
-The CRIT Study: Anemia and blood transfusion in the critically ill--current clinical practice in the United States. Crit Care Med. 2004 Jan;32(1):39-52. PMID: [14707558](http://pubmed.gov/14707558). *Large study, observational*
-4. Alazia M, Colavolpe JC, Botti G, Corda N, Ramero C, François G.
-[Blood loss from diagnostic laboratory tests performed in intensive care units. Preliminary study]. Ann Fr Anesth Reanim. 1996;15(7):1004-7. PMID: [9180974](http://pubmed.gov/9180974).*No intervention*
-4. Silver MJ, Li YH, Gragg LA, Jubran F, Stoller JK. Reduction of blood loss from diagnostic sampling in critically ill patients using a blood-conserving arterial line system. Chest. 1993 Dec;104(6):1711-5.  PMID: [8252948](http://pubmed.gov/8252948)*Does not report hemogobin change or transfusions*
-5. Tarpey J, Lawler PG. Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936).*No intervention*
-7. Sanchez-Giron F, Alvarez-Mora F. Reduction of blood loss from laboratory testing in hospitalized adult patients using small-volume (pediatric) tubes. Arch Pathol Lab Med. 2008 Dec;132(12):1916-9. doi: 10.1043/1543-2165-132.12.1916. PMID: [19061290](http://pubmed.gov/19061290).*intervension aiming at blood volume change*
+4. Thavendiranathan P, Bagai A, Ebidia A, Detsky AS, Choudhry NK. Do blood tests cause anemia in hospitalized patients? The effect of diagnostic phlebotomy on hemoglobin and hematocrit levels. J Gen Intern Med. 2005 Jun. PMID: [15987327](http://pubmed.gov/15987327).
+5. Corwin HL, Gettinger A, Pearl RG, Fink MP, Levy MM, Abraham E, MacIntyre NR, Shabot MM, Duh MS, Shapiro MJ. The CRIT Study: Anemia and blood transfusion in the critically ill--current clinical practice in the United States. Crit Care Med. 2004 Jan;32(1):39-52. PMID: [14707558](http://pubmed.gov/14707558). *Large study, observational*
+6. Wisser D, van Ackern K, Knoll E, Wisser H, Bertsch T. Blood loss from laboratory tests. Clin Chem. 2003 Oct;49(10):1651-5. PMID: [14500590](http://pubmed.gov/14500590).*Does not report hemogobin change or transfusions*
+7. Alazia M, Colavolpe JC, Botti G, Corda N, Ramero C, François G. [Blood loss from diagnostic laboratory tests performed in intensive care units. Preliminary study]. Ann Fr Anesth Reanim. 1996;15(7):1004-7. PMID: [9180974](http://pubmed.gov/9180974).*No intervention*
+8. Silver MJ, Li YH, Gragg LA, Jubran F, Stoller JK. Reduction of blood loss from diagnostic sampling in critically ill patients using a blood-conserving arterial line system. Chest. 1993 Dec;104(6):1711-5.  PMID: [8252948](http://pubmed.gov/8252948)*Does not report hemogobin change or transfusions*
+9. Tarpey J, Lawler PG. Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936).*No intervention*
+10. Smoller BR, Kruskall MS. Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919).*Measure of variation not reported*
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
