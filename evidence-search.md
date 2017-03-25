@@ -26,5 +26,5 @@ Seed articles (6) [PMIDs: 20105285,26421920,25303693,16913337,1471942,8472567](h
 ### Searching within the highly citing studies using Google Scholar (7/17/2016)
  * Citing articles containing transfusion: [Cited by 67](https://scholar.google.com/scholar?q=transfusion&btnG=&hl=en&as_sdt=2005&sciodt=0%2C5&cites=3225223193678390165&scipsc=1)  (67 citations; x new articles included)
  
- # ClinicalTrials.gov
+ ## ClinicalTrials.gov
  [VAMP AND transfusion](https://clinicaltrials.gov/ct2/results?term=VAMP+AND+transfusion&Search=Search): 0 citations (searched 3/25/2017)
