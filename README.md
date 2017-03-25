@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that conservative phlebotomy *pending* effective at reducing transufusions due to iatrogenic anemia. The heterogenteity as measured by I2 was '[pending](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at xx%.
+**Clinical summary:** This meta-analysis suggests that conservative phlebotomy *is not* effective at reducing transufusions due to iatrogenic anemia. The heterogenteity as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 54%. Among the two studies that with multiple interventions that included at least returning to patients deadspace volumes from in-line arterial sets and the use of small-sized blood collection tubes, there was a strong but statistically insignificant reduction in the proportion of patients requiring transfusion.
 
 [Keep current with this topic](Keep-up.md)
 
@@ -14,16 +14,11 @@ A living systematic review
 * [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (not available)
 * [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (not available)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
-* [Meta-regressions](../../tree/master/metaregression) ([source data](../../tree/master/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (not available)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
 ![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Blood-draw-anemia-prevention-with-conservative-phlebotomy/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
-
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
-
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Blood-draw-anemia-prevention-with-conservative-phlebotomy/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
