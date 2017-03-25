@@ -2,7 +2,7 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that conservative phlebotomy *is not* effective at reducing transufusions due to iatrogenic anemia. The heterogenteity as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 54%. Among the two studies that with multiple interventions that included at least returning to patients deadspace volumes from in-line arterial sets and the use of small-sized blood collection tubes, there was a strong but statistically insignificant reduction in the proportion of patients requiring transfusion.
+**Clinical summary:** This meta-analysis suggests that conservative phlebotomy *is not* effective at reducing transufusions due to iatrogenic anemia among adults in intensive care. The heterogenteity as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 54%. Among the two studies that with multiple interventions that included at least returning to patients deadspace volumes from in-line arterial sets and the use of small-sized blood collection tubes, there was a strong but statistically insignificant reduction in the proportion of patients requiring transfusion.
 
 [Keep current with this topic](Keep-up.md)
 
