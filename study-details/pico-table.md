@@ -1,7 +1,12 @@
-#PICO Table
+# PICO Table
+([switch to Risk of Bias table](risk-of-bias.md))
 
 Study        | PMID                                    |Patients/population/problem|Intervention|Comparison|Outcome|
------------- | --------------------------------------|---------------------------|------------|----------|-------|
-| Richard    |[25572383](http://pubmed.gov/25572383) |Adults with mean arterial pressure < 65 mm Hg before(?) fluids | Protocol based on PICCO | Usual care | Mortality at 28 days|
-| Kuan       |[26475246](http://pubmed.gov/26475246) |Adults with lactate level >= 3 mmol/L                          | Protocol based on NICOM | Usual care |Mortality at 28 days|
-| ProCESS    |[24635773](http://pubmed.gov/24635773) |Adults with lactate level >= 5 mmol/L or systolic pressure < 90 mm Hg after 1000 ml fluid challenge| Protocol based on shock index |Usual care|Mortality at 60 days|
+------------ | ----------------------------------------|---------------------------|------------|----------|-------|
+|Perruzi     |[8472567](http://pubmed.gov/8472567)      |Adults in intensive care with an arterial catheter | VAMP | Usual care | Transfusion while in intensive care|
+|MacIsaac      |[14719427](http://pubmed.gov/14719427)  |Adults in intensive care with an arterial catheter | VAMP | Usual care |Transfusion while in intensive care|
+| Harber        |[16913337](http://pubmed.gov/16913337) |Adults in intensive care with an arterial catheter | VAMP + small collection tubes|Usual care|Transfusion while in intensive care|
+| Mukhopadhyay  |[20105285](http://pubmed.gov/20105285) |Adults in intensive care with an arterial catheter | VAMP |Usual care|Transfusion while in intensive care|
+| Rezende       |[25303693](http://pubmed.gov/25303693) |Adults in intensive care with an arterial catheter and mechanic ventilation > 24 hours| VAMP |Usual care|Transfusion while in intensive care|
+| Riessen      |[24635773](http://pubmed.gov/24635773)  |Adults in intensive care with an arterial catheter and mechanic ventilation > 72 hours| VAMP + small collection tubes + policy changes|Usual care|Transfusion while in intensive care|
+
