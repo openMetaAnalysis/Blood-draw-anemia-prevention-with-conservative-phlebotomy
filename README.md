@@ -4,17 +4,21 @@ A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that conservative phlebotomy *is not* effective at reducing transufusions due to iatrogenic anemia among adults in intensive care. The heterogenteity as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 54%. Among the two studies that with multiple interventions that included at least returning to patients deadspace volumes from in-line arterial sets and the use of small-sized blood collection tubes, there was a strong but statistically insignificant reduction in the proportion of patients requiring transfusion.
 
-[Keep current with this topic](Keep-up.md)
+This analysis is limited by:
+* No registered, randomized trials.
+* No comparisons of VAMP closed system with ad hoc closed system using a syringe and stopcock.
+
+[Keep current with this topic](Keep-up.md) (not yet available)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
 * [Evidence search](evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (not available)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (not available)
+* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (under construction)
+* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (under construction)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (not available)
+* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (under construction)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
