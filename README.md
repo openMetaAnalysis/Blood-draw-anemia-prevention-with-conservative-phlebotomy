@@ -10,7 +10,7 @@ This analysis is limited by:
 
 [Keep current with this topic](../master/files/searching/Keep-up.md) (not yet available)
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
 * [Evidence search](../master/files/searching/evidence-search.md) for this review
 
