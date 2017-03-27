@@ -42,7 +42,7 @@ References:
 8. Peruzzi WT, Parker MA, Lichtenthal PR, Cochran-Zull C, Toth B, Blake M. A clinical evaluation of a blood conservation device in medical intensive care unit patients. Crit Care Med. 1993 Apr;21(4):501-6. PMID: [8472567](http://pubmed.gov/8472567).
 
 #### Newer controlled study(s) undergoing review
-1. Gleason E, Grossman S, Campbell C. Minimizing diagnostic blood loss in critically ill patients. Am J Crit Care. 1992 Jul;1(1):85-90. PMID: [1307883](http://pubmed.gov/1307883).
+None
 
 #### New study(s) *excluded*
 1. Salisbury AC, Reid KJ, Alexander KP, Masoudi FA, Lai SM, Chan PS, Bach RG, Wang TY, Spertus JA, Kosiborod M. Diagnostic blood loss from phlebotomy and hospital-acquired anemia during acute myocardial infarction. Arch Intern Med. 2011 Oct 10;171(18):1646-53. doi: 10.1001/archinternmed.2011.361. PMID: [21824940](http://pubmed.gov/21824940). *Large cohort, but did not have an intervention*
@@ -55,7 +55,8 @@ References:
 6. Wisser D, van Ackern K, Knoll E, Wisser H, Bertsch T. Blood loss from laboratory tests. Clin Chem. 2003 Oct;49(10):1651-5. PMID: [14500590](http://pubmed.gov/14500590).*Does not report hemogobin change or transfusions*
 7. Alazia M, Colavolpe JC, Botti G, Corda N, Ramero C, François G. [Blood loss from diagnostic laboratory tests performed in intensive care units. Preliminary study]. Ann Fr Anesth Reanim. 1996;15(7):1004-7. PMID: [9180974](http://pubmed.gov/9180974).*No intervention*
 8. Silver MJ, Li YH, Gragg LA, Jubran F, Stoller JK. Reduction of blood loss from diagnostic sampling in critically ill patients using a blood-conserving arterial line system. Chest. 1993 Dec;104(6):1711-5.  PMID: [8252948](http://pubmed.gov/8252948)*Does not report hemogobin change or transfusions*
-9. Tarpey J, Lawler PG. Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936).*No intervention*
+9. Gleason E, Grossman S, Campbell C. Minimizing diagnostic blood loss in critically ill patients. Am J Crit Care. 1992 Jul;1(1):85-90. PMID: [1307883](http://pubmed.gov/1307883).*Transfusions reported as lower but insignificant, with closed system. No numbers provided*
+10. Tarpey J, Lawler PG. Iatrogenic anemia? A survey of venesection in patients in the intensive therapy unit. Anesthesia. 1990 May;45(5):396-8. PMID: [2356936](http://pubmed.gov/2356936).*No intervention*
 10. Smoller BR, Kruskall MS. Phlebotomy for diagnostic laboratory tests in adults. Pattern of use and effect on transfusion requirements. N Engl J Med. 1986 May 8. PMID: [3702919](http://pubmed.gov/3702919).*Measure of variation not reported*
 
 -------------------------------
