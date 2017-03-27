@@ -1,6 +1,6 @@
 Study, Year,PMID,experimental_events,experimental_total,control_events,control_total,intervention,design,.
-Thorpe,2000,10594430,7,48,16,52,VAMP,randomized,
-Dolman,2015,26164619,24,116,40,132,Small tubes,non-randomized,
+Thorpe*,2000,10594430,7,48,16,52,VAMP,randomized,
+Dolman*,2015,26164619,24,116,40,132,Small tubes,non-randomized,
 Mukhopadhyay,2010,20105285,52,170,17,80,VAMP,non-randomized,
 Riessen,2015,26421920,8,50,13,41,Bundle (VAMP + small tubes),non-randomized,
 Rezende,2010,25303693,19,62,28,65,VAMP,randomized,
