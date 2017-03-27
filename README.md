@@ -8,21 +8,21 @@ This analysis is limited by:
 * No registered, randomized trials.
 * No comparisons of VAMP closed system with ad hoc closed system using a syringe and stopcock.
 
-[Keep current with this topic](../master/searching/Keep-up.md) (not yet available)
+[Keep current with this topic](../master/files/searching/Keep-up.md) (not yet available)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
-* [Evidence search](../master/searching/evidence-search.md) for this review
+* [Evidence search](../master/files/searching/evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (under construction)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (under construction)
-* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables) (under construction)
+* [Description of studies (PICO table)](../master/files/study-details/pico-table.md) (under construction)
+* [Risk of bias assessment](../../tree/master/files/study-details/risk-of-bias.md) (under construction)
+* [Forest plots](../../tree/master/files/forest-plots) ([source data](../../tree/master/files/data))
+* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/files/reconcilation-tables) (under construction)
 
-The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+The forest plot for the primary outcomes are below. Additional [forest plots](../../tree/master/files/forest-plots) of secondary analyses may be available. 
 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Blood-draw-anemia-prevention-with-conservative-phlebotomy/master/forest-plots/Outcome-Primary.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Blood-draw-anemia-prevention-with-conservative-phlebotomy/master/files/forest-plots/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
