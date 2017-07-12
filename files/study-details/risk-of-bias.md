@@ -11,7 +11,8 @@ Based on [Cochrane Handbook](http://handbook.cochrane.org/chapter_8/table_8_5_d_
 
 |  Study           | Selection bias:<br/><br/>Random sequence generation<br/>| <br/><br/><br/><br/>Allocation concealment|Performance bias:<br/>Blinding of participants and personnel|Detection bias:<br/><br/>Blinding of outcome assessment<br/>|Attrition bias:<br/><br/>Incomplete outcome data<br/>|Reporting bias:<br/><br/><br/>Selective reporting|Other biases:<br/><br/>E.g. imbalanced compliance , co-interventions, or other<br/>|
 | ---------------------------------------------------|:---------|:---------|:--------------|:------------|:----------|:----------|:----------|
-| Perruzi<br>1993<br>PMID [8472567](http://pubmed.gov/8472567)|Low risk |Low risk |Unclear risk |Unclear risk |Low risk |Low risk|Low risk|
+| Perruzi<br>1993<br>PMID [8472567](http://pubmed.gov/8472567)|Low risk |Unclear risk |Low risk |Unclear risk |Low risk |Low risk|Low risk|
+| Thorpe<br>2000<br>PMID [10594430](http://pubmed.gov/10594430)|Low risk |Unclear risk |Low risk |Low risk |Low risk |Low risk| Unclear risk|
 | MacIsaac<br>2003<br>PMID [14719427](http://pubmed.gov/14719427)|Unclear risk |Unclear risk |Unclear risk |Unclear risk |Unclear risk|Low risk|Low risk|
 | Harber<br>2006<br>PMID [16913337](http://pubmed.gov/16913337)|Unclear risk |Unclear risk |Unclear risk |Unclear risk  |Unclear risk |Low risk|Low risk|
 | Mukhopadhyay<br>2010<br>PMID [20105285](http://pubmed.gov/20105285)|High risk (non-randomized) |High risk |Unclear risk |Unclear risk  |Unclear risk |Low risk|Low risk|
