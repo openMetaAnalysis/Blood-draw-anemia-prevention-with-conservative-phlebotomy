@@ -15,6 +15,8 @@ https://openmetaanalysis.github.io/Blood-draw-anemia-prevention-with-conservativ
 
 **If you want to update this meta-analysis:**
 
+[Suggested steps](http://tinyurl.com/openMetaAnalysis-steps)
+
 Text files:
 * [Clinical summary and references](../../tree/gh-pages/index.html)
 * [Data tables](../master/files/data)
